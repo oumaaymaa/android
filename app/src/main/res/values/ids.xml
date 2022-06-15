@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nom" type="id" />
+    <item name="prénom" type="id" />
+    <item name="email" type="id" />
+    <item name="motdepasse" type="id" />
+    <item name="inscripBtn" type="id" />
+    <item name="conexBtn" type="id" />
+    <item name="Nom" type="id" />
+    <item name="Prénom" type="id" />
+    <item name="Email" type="id" />
+</resources>
